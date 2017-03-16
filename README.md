@@ -1,7 +1,7 @@
-Programacion Lineal
+Programación Lineal
 ===================
 
-Este es el README de mi nueva aplicaciÃ³n Programación lineal.
+Este es el README de mi nueva aplicación Programación lineal.
 
 
 Autor
